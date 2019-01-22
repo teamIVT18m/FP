@@ -1,0 +1,12 @@
+C:\Users\Argon\Desktop\1\1\.vs\12\lut\0\b\12.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Argon\Desktop\1\1\.vs\12\lut\0\b\12.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Argon\Desktop\1\1\.vs\12\lut\0\b\12.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Argon\Desktop\1\1\.vs\12\lut\0\b\12.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Argon\Desktop\1\1\.vs\12\lut\0\b\12.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Argon\Desktop\1\1\.vs\12\lut\0\b\12.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Argon\Desktop\1\1\.vs\12\lut\0\b\12.Tests\bin\Debug\12.Tests.dll
+C:\Users\Argon\Desktop\1\1\.vs\12\lut\0\b\12.Tests\bin\Debug\12.Tests.pdb
+C:\Users\Argon\Desktop\1\1\.vs\12\lut\0\i\12.Tests\Debug\12.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Argon\Desktop\1\1\.vs\12\lut\0\i\12.Tests\Debug\12.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Argon\Desktop\1\1\.vs\12\lut\0\i\12.Tests\Debug\12.Tests.dll
+C:\Users\Argon\Desktop\1\1\.vs\12\lut\0\i\12.Tests\Debug\12.Tests.pdb
