@@ -1,0 +1,34 @@
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\bin\CrudInGridView.dll.config
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\bin\CrudInGridView.dll
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\bin\CrudInGridView.pdb
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.csprojResolveAssemblyReference.cache
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.dll
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.pdb
+C:\d\CrudInGridView\CrudInGridView\bin\CrudInGridView.dll.config
+C:\d\CrudInGridView\CrudInGridView\bin\CrudInGridView.dll
+C:\d\CrudInGridView\CrudInGridView\bin\CrudInGridView.pdb
+C:\d\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.csprojAssemblyReference.cache
+C:\d\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.csproj.CoreCompileInputs.cache
+C:\d\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.dll
+C:\d\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.pdb
+C:\Users\ALLO\Desktop\Kyrsovaya-master\CrudInGridView\bin\CrudInGridView.dll.config
+C:\Users\ALLO\Desktop\Kyrsovaya-master\CrudInGridView\bin\CrudInGridView.dll
+C:\Users\ALLO\Desktop\Kyrsovaya-master\CrudInGridView\bin\CrudInGridView.pdb
+C:\Users\ALLO\Desktop\Kyrsovaya-master\CrudInGridView\obj\Debug\CrudInGridView.csprojAssemblyReference.cache
+C:\Users\ALLO\Desktop\Kyrsovaya-master\CrudInGridView\obj\Debug\CrudInGridView.csproj.CoreCompileInputs.cache
+C:\Users\ALLO\Desktop\Kyrsovaya-master\CrudInGridView\obj\Debug\CrudInGridView.dll
+C:\Users\ALLO\Desktop\Kyrsovaya-master\CrudInGridView\obj\Debug\CrudInGridView.pdb
+C:\Users\Argon\Desktop\ThP\Kyrsovaya-master\CrudInGridView\bin\CrudInGridView.dll.config
+C:\Users\Argon\Desktop\ThP\Kyrsovaya-master\CrudInGridView\bin\CrudInGridView.dll
+C:\Users\Argon\Desktop\ThP\Kyrsovaya-master\CrudInGridView\bin\CrudInGridView.pdb
+C:\Users\Argon\Desktop\ThP\Kyrsovaya-master\CrudInGridView\obj\Debug\CrudInGridView.csprojResolveAssemblyReference.cache
+C:\Users\Argon\Desktop\ThP\Kyrsovaya-master\CrudInGridView\obj\Debug\CrudInGridView.csproj.CoreCompileInputs.cache
+C:\Users\Argon\Desktop\ThP\Kyrsovaya-master\CrudInGridView\obj\Debug\CrudInGridView.dll
+C:\Users\Argon\Desktop\ThP\Kyrsovaya-master\CrudInGridView\obj\Debug\CrudInGridView.pdb
+C:\Users\Argon\Desktop\Новая папка (2)\Kyrsovaya-master\CrudInGridView\bin\CrudInGridView.dll.config
+C:\Users\Argon\Desktop\Новая папка (2)\Kyrsovaya-master\CrudInGridView\bin\CrudInGridView.dll
+C:\Users\Argon\Desktop\Новая папка (2)\Kyrsovaya-master\CrudInGridView\bin\CrudInGridView.pdb
+C:\Users\Argon\Desktop\Новая папка (2)\Kyrsovaya-master\CrudInGridView\obj\Debug\CrudInGridView.csprojResolveAssemblyReference.cache
+C:\Users\Argon\Desktop\Новая папка (2)\Kyrsovaya-master\CrudInGridView\obj\Debug\CrudInGridView.csproj.CoreCompileInputs.cache
+C:\Users\Argon\Desktop\Новая папка (2)\Kyrsovaya-master\CrudInGridView\obj\Debug\CrudInGridView.dll
+C:\Users\Argon\Desktop\Новая папка (2)\Kyrsovaya-master\CrudInGridView\obj\Debug\CrudInGridView.pdb

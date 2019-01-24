@@ -1,7 +1,0 @@
-C:\Users\Argon\Desktop\1\1\.vs\12\lut\0\b\12\bin\12.dll.config
-C:\Users\Argon\Desktop\1\1\.vs\12\lut\0\b\12\bin\12.dll
-C:\Users\Argon\Desktop\1\1\.vs\12\lut\0\b\12\bin\12.pdb
-C:\Users\Argon\Desktop\1\1\.vs\12\lut\0\i\12\Debug\12.csprojResolveAssemblyReference.cache
-C:\Users\Argon\Desktop\1\1\.vs\12\lut\0\i\12\Debug\12.csproj.CoreCompileInputs.cache
-C:\Users\Argon\Desktop\1\1\.vs\12\lut\0\i\12\Debug\12.dll
-C:\Users\Argon\Desktop\1\1\.vs\12\lut\0\i\12\Debug\12.pdb
